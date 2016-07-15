@@ -28,7 +28,8 @@
         "watson/validating": "^2.2",
         "codesleeve/laravel-stapler": "1.0.*",
         "intervention/image": "^2.3",
-        "simplesoftwareio/simple-qrcode": "^1.4"
+        "simplesoftwareio/simple-qrcode": "^1.4",
+        "overtrue/laravel-wechat": "~3.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
