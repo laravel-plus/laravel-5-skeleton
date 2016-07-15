@@ -26,7 +26,9 @@
         "sofa/eloquence": "^5.2",
         "pingpong/generators": "^2.2",
         "watson/validating": "^2.2",
-        "codesleeve/laravel-stapler": "1.0.*"
+        "codesleeve/laravel-stapler": "1.0.*",
+        "intervention/image": "^2.*",
+        "simplesoftwareio/simple-qrcode": "^1.*"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
